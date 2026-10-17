@@ -1,6 +1,0 @@
-{
-  "version": "0.0.1",
-  "configurations": [
-    { "name": "fuse27-site", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8427", "--directory", "/Users/adam/Developer/fuse27-site"], "port": 8427 }
-  ]
-}
